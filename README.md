@@ -9,4 +9,5 @@ The experiment, let’s call it Coloured Directions, is set up to present the st
 
 The responses being recorded are the numbers of the blocks and trials, the colour of the written word, the correct response, if the participants response was correct or incorrect, and how long it took the participant to react. The files are being saved using import csv and output is read using an excel spreadsheet. 
 
-See [FinalProject.py](
+See [FinalProject.py](https://github.com/EGuidry/FinalProject/blob/main/FinalProject/FinalProject.py) for experiment.
+See [Sub1_14-12-2022_outputFile](
