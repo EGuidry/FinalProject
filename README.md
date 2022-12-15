@@ -9,6 +9,6 @@ The experiment is set up to present the stimuli words “left” or “right” 
 
 The responses being recorded are the numbers of the blocks and trials, the colour of the written word, the correct response, if the participants response was correct or incorrect, and how long it took the participant to react. The files are being saved using import csv and output is read using an excel spreadsheet. 
 
-See [FinalProject.py](https://github.com/EGuidry/FinalProject/blob/main/FinalProject/FinalProject.py) for experiment.
+See [ColouredDirections.py]( for the code.
 
 See [Sub1_14-12-2022_outputFile](https://github.com/EGuidry/FinalProject/blob/main/FinalProject/Sub1_14-12-2022_outputFile.csv) for an example of the output data file I would collect from the experiment.
