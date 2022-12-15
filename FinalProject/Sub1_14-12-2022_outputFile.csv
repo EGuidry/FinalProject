@@ -1,0 +1,19 @@
+Block Number,Trial Number,Colour,Correct Response,Accuracy,Response Time
+1,1,red,Right,Incorrect,0.8248759000016435
+1,2,green,Left,Correct,0.7610872000004747
+1,3,green,Left,Incorrect,0.8055177999995067
+1,4,green,Left,Correct,0.7271407000007457
+1,5,red,Right,Correct,0.7439424000003783
+1,6,red,Right,Correct,0.9507948000027682
+2,1,green,Left,Incorrect,0.9759369999992487
+2,2,green,Left,Correct,0.44083390000014333
+2,3,red,Right,Correct,0.6828314000013052
+2,4,red,Right,Correct,0.9371229000025778
+2,5,green,Left,Correct,0.5724342000030447
+2,6,green,Left,Correct,0.8528944999998203
+3,1,green,Left,Incorrect,0.9601736999975401
+3,2,red,Right,Incorrect,0.5678040000020701
+3,3,green,Left,Incorrect,0.6104487000011432
+3,4,red,Right,Incorrect,0.6261206999988644
+3,5,red,Right,Incorrect,0.9981742999989365
+3,6,red,Right,Incorrect,0.5970568000011554
